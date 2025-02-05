@@ -1,0 +1,1 @@
+used to submit my GenAI architecting homework
